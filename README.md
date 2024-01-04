@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hedy21)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=Hedy21)
 <!--
 **PyronSu/PyronSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
